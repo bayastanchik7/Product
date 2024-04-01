@@ -89,3 +89,9 @@
 		display: none;
 	}
 }
+
+.headerMainrigth {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
